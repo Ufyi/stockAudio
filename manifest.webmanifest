@@ -1,0 +1,15 @@
+{
+  "name": "日経先物 読み上げ",
+  "short_name": "先物読み上げ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
